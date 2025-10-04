@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <h1 align="center">✨3D Solar System Using Three.js & Vite - VibeCode🌌</h1>
   <p align="center">
     <b>A visually interactive 3D Solar System simulation built with <a href="https://threejs.org/">Three.js</a> and <a href="https://vitejs.dev/">Vite</a>.</b><br>
@@ -127,4 +127,4 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 </p>
 
 
-
+ -->
